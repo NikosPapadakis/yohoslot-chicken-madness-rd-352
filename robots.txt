@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yohoslot-chicken-madness-352.onrender.com/sitemap.xml
+Sitemap: https://srv-d864ekh9rddc73f0ah8g.onrender.com/sitemap.xml
